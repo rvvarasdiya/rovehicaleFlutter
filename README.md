@@ -1,8 +1,6 @@
 # rovehicaleFlutter
 Vehicle rental system
 
-Vehicle rental system
-
 -Flutter application.
 
 login screen
